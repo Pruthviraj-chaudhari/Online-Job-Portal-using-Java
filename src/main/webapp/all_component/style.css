@@ -1,0 +1,23 @@
+.navbar .nav-item .nav-link {
+	font-size: 20px;
+	color: white;
+}
+
+.navbar .nav-item:hover .nav-link {
+	background: white;
+	color: black;
+	border-radius: 10px;
+}
+
+/* .mt-0 {
+	margin-top: 0;
+}
+
+.mr-1 {
+	margin-left: (2* .25);
+} */
+
+.raj {
+	text-decoration: none;
+}
+
